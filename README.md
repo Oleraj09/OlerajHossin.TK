@@ -1,11 +1,60 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## MZ-CvBuilder :: A Simple CV Builder Application to generate existing Resume
+MZ Blog is created with only HTML,CSS,JS,Bootstrap for Frontend Developemnt. For Backend Development used PHP framework Laravel and MySQL for Database Design. 
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<h3>CvBuilder on Live Server</h3> <a href="https://mondolmart.000webhostapp.com/"><img src="https://raw.githubusercontent.com/Oleraj09/CvBuilder/master/dist/software-development.png" style="height:150px;width:160px"></a><br/>
+Click On the above Icon for Demo!! Or <a href="https://mondolmart.000webhostapp.com/">Click Here</a>
+
+## Demo
+
+``` Homepage ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/CvBuilder/master/dist/1.PNG" alt="Desktop Homepage">
+
+``` Resume Show ```
+
+<img src="https://raw.githubusercontent.com/Oleraj09/CvBuilder/master/dist/2.PNG" alt="Item wise Show item">
+
+
+## Run Webapp
+To run this application must require node module and composer autoload module.
+
+- 1st Command use 
+
+
+        composer install
+        
+        
+- 2nd Command use
+
+
+        npm install
+        
+        
+- 3rd Command use
+
+
+        cp .env.example .env
+        
+        
+- 4th Command use
+
+
+        php artisan key:generate
+        
+        
+- Run xamp server to Create Database use 
+
+
+        php artisan migrate
+        
+        
+- Run the server 
+
+
+        php artisan serve
+        
+        
+
 
 ## About Laravel
 
