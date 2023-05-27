@@ -1,0 +1,203 @@
+@media only screen and (min-width: 1400px) {
+    .ititle {
+        position: absolute;
+        left: 20%;
+        right: 20%;
+    }
+    .ibutton {
+        position: absolute;
+        left: 15%;
+        right: 15%;
+        bottom: 25%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .ibutton {
+        position: absolute;
+        left: 7%;
+        right: 15%;
+        bottom: 10%;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .image-box1 {
+        height: 250px;
+        width: 250px;
+    }  
+    .image-box2 {
+        height: 256px;
+        width: 256px;
+    }
+    .image-box3 {
+        height: 262px;
+        width: 262px;
+    }
+    .image {
+        margin-top: 5%;
+        margin-left: 25%;
+    }
+    .map{
+        width: 330px;
+        height: 200px;
+    }
+}
+@media only screen and (max-width : 767px) {
+    .map{
+        width: 450px;
+        height: 200px;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .ititle {
+        font-weight: 600;
+        font-size: 15px;
+        position: absolute;
+        left: 20%;
+        right: 20%;
+        top: 70%;
+    }
+    .ibutton {
+        position: absolute;
+        left: 20%;
+        bottom: 35%;
+    }
+    .map{
+        width: 350px;
+        height: 200px;
+    }
+}
+@media only screen and (max-width: 490px) {
+    .work::before{
+        content: "";
+        display: block;
+        position: absolute;
+        width: 3px;
+        height: 165px;
+        border: 1px solid #FFFFFF;
+        top: 18%;
+        left: 15px;
+        border-radius: 5%;
+        z-index: 1;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .image {
+        margin-top: 5%;
+        margin-left: 20%;
+    }
+}
+@media only screen and (max-width: 442px) {
+    .work::before{
+        content: "";
+        display: block;
+        position: absolute;
+        width: 3px;
+        height: 190px;
+        border: 1px solid #FFFFFF;
+        top: 17%;
+        left: 15px;
+        border-radius: 5%;
+        z-index: 1;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .work::before{
+        content: "";
+        display: block;
+        position: absolute;
+        width: 3px;
+        height: 220px;
+        border: 1px solid #FFFFFF;
+        top: 15%;
+        left: 15px;
+        border-radius: 5%;
+        z-index: 1;
+    }
+}
+@media only screen and (max-width: 414px) {
+    .work::before{
+        content: "";
+        display: block;
+        position: absolute;
+        width: 3px;
+        height: 240px;
+        border: 1px solid #FFFFFF;
+        top: 13%;
+        left: 15px;
+        border-radius: 5%;
+        z-index: 1;
+    }
+}
+@media only screen and (max-width: 410px) {
+    .image-box1 {
+        height: 200px;
+        width: 200px;
+    }  
+    .image-box2 {
+        height: 206px;
+        width: 206px;
+    }
+    .image-box3 {
+        height: 212px;
+        width: 212px;
+    }
+    .image {
+        margin-top: 5%;
+        margin-left: 15%;
+    }
+    .map{
+        width: 300px;
+        height: 200px;
+    }
+}
+@media only screen and (max-width: 390px) {
+    .work::before{
+        content: "";
+        display: block;
+        position: absolute;
+        width: 3px;
+        height: 240px;
+        border: 1px solid #FFFFFF;
+        top: 13%;
+        left: 15px;
+        border-radius: 5%;
+        z-index: 1;
+    }
+}
+@media only screen and (max-width: 350px) {
+    .ibutton {
+        left: 10%;
+        bottom: 10%;
+    }
+    .map{
+        width: 250px;
+        height: 200px;
+    }
+    .work::before{
+        content: "";
+        display: block;
+        position: absolute;
+        width: 3px;
+        height: 270px;
+        border: 1px solid #FFFFFF;
+        top: 11%;
+        left: 15px;
+        border-radius: 5%;
+        z-index: 1;
+    }
+}
+@media only screen and (max-width: 325px) {
+    .work::before{
+        content: "";
+        display: block;
+        position: absolute;
+        width: 0px;
+        height: 270px;
+        border: none;
+        top: 11%;
+        left: 15px;
+        border-radius: 5%;
+        z-index: 1;
+    }
+}
