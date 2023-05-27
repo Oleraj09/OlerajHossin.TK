@@ -1,18 +1,19 @@
-## MZ-CvBuilder :: A Simple CV Builder Application to generate existing Resume
-MZ Blog is created with only HTML,CSS,JS,Bootstrap for Frontend Developemnt. For Backend Development used PHP framework Laravel and MySQL for Database Design. 
+## Oleraj Hossin :: A Simple Portfolio !!
+This is created with only HTML,CSS,JS,Bootstrap for Frontend Developemnt. For Backend Development used PHP framework Laravel and MySQL for Database Design. 
 
-<h3>CvBuilder on Live Server</h3> <a href="https://mondolmart.000webhostapp.com/"><img src="https://raw.githubusercontent.com/Oleraj09/CvBuilder/master/dist/software-development.png" style="height:150px;width:160px"></a><br/>
-Click On the above Icon for Demo!! Or <a href="https://mondolmart.000webhostapp.com/">Click Here</a>
+<h3>Live Server</h3> <a href="http://olerajhossin.tk/"><img src="https://raw.githubusercontent.com/Oleraj09/CvBuilder/master/dist/software-development.png" style="height:150px;width:160px"></a><br/>
+Click On the above Icon for Demo!! Or <a href="http://olerajhossin.tk/">Click Here</a>
 
 ## Demo
 
 ``` Homepage ```
 
-<img src="https://raw.githubusercontent.com/Oleraj09/CvBuilder/master/dist/1.PNG" alt="Desktop Homepage">
+<img src="https://raw.githubusercontent.com/Oleraj09/OlerajHossin.TK/master/Demo/Capture.PNG" alt="Desktop Homepage">
 
-``` Resume Show ```
+``` Admin Panel ```
 
-<img src="https://raw.githubusercontent.com/Oleraj09/CvBuilder/master/dist/2.PNG" alt="Item wise Show item">
+<img src="https://raw.githubusercontent.com/Oleraj09/OlerajHossin.TK/master/Demo/Captures.PNG" alt="Admin Panel">
+<img src="https://raw.githubusercontent.com/Oleraj09/OlerajHossin.TK/master/Demo/ss.PNG" alt="System">
 
 
 ## Run Webapp
